@@ -33,10 +33,14 @@ html {
     color: white;
 }
 input[type="text"]{
+    font-size: 1.7vw;
     width: 80%;
     height: 50px;
     border-radius: 0.4em;
 
+}
+input[name="password"]{
+    -webkit-text-security: disc !important;
 }
 input[type="button"]{
     width: 75%;
@@ -54,4 +58,21 @@ input[type="button"]{
 .ex small:hover{
     color: wheat;
 }
-
+footer {
+    margin-top: 15%;
+    vertical-align: bottom;
+    width: 80%;
+    margin-left: 12%;
+    background-image: linear-gradient(to right,lightskyblue,lightgreen);
+}
+footer ul{
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 25%;
+}
+footer li{
+    color: white;
+}
+footer div {
+    text-align: center;
+}

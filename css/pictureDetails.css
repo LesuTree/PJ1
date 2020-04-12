@@ -123,6 +123,7 @@ html {
     background-color: white;
 }
 .description {
+    display: inline-block;
     width: 50%;
     background-color: white;
     border-radius: 6em;
@@ -148,6 +149,17 @@ html {
     border: 1px solid white;
     margin-top: 5%;
     background-image: linear-gradient(to right,mediumvioletred,deepskyblue);
+}
+.button-div{
+    display: inline-block;
+    width: 20%;
+
+}
+input[type="button"]{
+    width: 50%;
+    background-color: lightskyblue;
+    border-radius: 0.6em;
+    font-size: 1.6vw;
 }
 footer {
     margin-top: 2%;
