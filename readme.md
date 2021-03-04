@@ -6,7 +6,7 @@ Github地址：https://github.com/LesuTree/PJ1；
 GithubPage地址：https://lesutree.github.io/PJ1/；
 
 
-项目完成情况：
+#### 项目完成情况：
 首页：
 1、	导航栏部分的功能实现完全，包括下拉菜单，点击相应位置可以跳转，鼠标移动后高亮，不同页面导航栏相同。
 2、	自我感觉图片布局较为合理并带有图片Title和描述缩略版的div，点击图片后跳转至详情页。
@@ -46,3 +46,4 @@ Bonus:
 2、	响应式布局：width和height以及其他的margin属性值单位是%；
 3、界面较为美观；
 
+![Image text](https://github.com/LesuTree/PJ1/blob/master/images/Introduction_Lzz.jpg)
