@@ -47,3 +47,4 @@ Bonus:
 3、界面较为美观；
 
 ![Image text](https://github.com/LesuTree/PJ1/blob/master/images/Introduction_Lzz.jpg)
+<img src="https://github.com/LesuTree/PJ1/blob/master/images/Introduction_Lzz.jpg" width="200" height="200" alt="微信小程序"/><br/>
